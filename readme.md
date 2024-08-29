@@ -22,3 +22,6 @@ npm start
 
 ### Version :1.0.0
 ### License :MIT
+
+## Live API documentation
+https://mdhafizul.github.io/DevHubApiBackend/
